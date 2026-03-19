@@ -2,7 +2,9 @@
 #### By: Amde Wubshet
 
 ### Breif Description: 
-Developed a simple "Feature Toggle" component in React that demonstrates conditional rendering based on props passed to the component
+Developed a simple "Feature Toggle" component in React that demonstrates conditional rendering based on props passed to the component. The two props in the FeatureToggle.jsx component: 
+- *isEnabled*: a boolean
+- *featureName*: a string 
 
 ### Commands 
 After installing the repo, navigate into your project directory: *cd feature-toggle-demo*. Then start the development server: *npm run dev*. 
